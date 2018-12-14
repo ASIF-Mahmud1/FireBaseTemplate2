@@ -1,0 +1,6 @@
+Set project parameters to:
+---------------------------------------------------------
+Project name:  FireBaseTemplate
+Company name:  none
+Package name:  com.none.firebasetemplate
+---------------------------------------------------------
